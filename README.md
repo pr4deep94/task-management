@@ -23,7 +23,7 @@
 
 ## To setup it
 - Run the below command to install the dependency
-npm run install-dependency
+- npm run install-dependency
 
 - Run the below command to run the project
-npm run dev
+- npm run dev
